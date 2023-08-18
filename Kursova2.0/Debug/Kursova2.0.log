@@ -1,0 +1,11 @@
+﻿  Autor.cpp
+  Drama.cpp
+  MyForm.cpp
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\MyForm.cpp(183,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\MyForm.cpp(229,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\MyForm.cpp(426,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\MyForm.cpp(461,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\MyForm.cpp(510,13): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Autor.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Kursova2.0.vcxproj -> C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova2.0.exe

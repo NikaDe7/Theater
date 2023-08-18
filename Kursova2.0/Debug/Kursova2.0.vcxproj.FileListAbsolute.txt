@@ -1,0 +1,6 @@
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova2.0.vcxprojAssemblyReference.cache
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova2.0.exe
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova2.0.pdb
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova20.MyForm.resources
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova2.0.vcxproj.GenerateResource.cache
+C:\Users\vorob\OneDrive\Рабочий стол\Курсова\Kursova2.0\Debug\Kursova20.MyForm.uk-UA.resources
